@@ -7,7 +7,7 @@ Tableau project to visualize how Jersey City biking patterns have changed in the
 
 **[Tableau Jerskey City Covid19 CitiBike Rider Analysis](https://public.tableau.com/profile/joseph.sueno#!/vizhome/JerseyCityCitiBikeAnalysis2020/Story1)**
 
-## Major Fidings:
+## Findings:
 
 * Ridership has decreased during the initial months of COVID. It then seems to rebound back quite fast. This pattern mirrors quarentine restrictions and lifting of them. 
 * The number "Customers" is a larger percentage of the total. This could be due to new riders. It could also be from people who don't want to ride the subway or a ride-share vehicle like Lyft.

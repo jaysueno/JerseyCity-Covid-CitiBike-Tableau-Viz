@@ -5,7 +5,7 @@ _Tableau_
 ## Summary of Project
 Tableau project to visualize how Jersey City biking patterns have changed in the time of Covid19. To view the Tableau visualization please visit my Tableau profile:
 
-**[Tableau Jersey City Covid19 CitiBike Rider Analysis](https://public.tableau.com/profile/joseph.sueno#!/vizhome/JerseyCityCitiBikeAnalysis2020/Story1)**
+**[Tableau Jersey City Covid19 CitiBike Rider Analysis](https://public.tableau.com/profile/jaysueno#!/vizhome/JerseyCityCitiBikeAnalysis2020/Story1)**
 
 ## Findings:
 
